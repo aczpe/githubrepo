@@ -1,0 +1,5 @@
+12
+I I SZOL 1200 I I SZER 1400 I I SZOL 1600 I I SZER 2000
+6
+Feri M Jani O Tamás T Orsi M Tamara T Abel O
+1 2 
